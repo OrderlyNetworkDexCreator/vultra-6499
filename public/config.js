@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Vultra offers secure, on-chain crypto perpetual trading with deep liquidity and fast execution. Trade perps with full self-custody.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Markets,Trading,Swap,Vaults,Leaderboard,Portfolio,Rewards",
+  "VITE_ENABLED_MENUS": "Markets,Trading,Swap,Leaderboard,Portfolio,Rewards,Vaults",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
